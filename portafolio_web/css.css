@@ -1,0 +1,20 @@
+body {
+ font-family: Arial,sans-serif;
+  margin-top: auto;
+  color: rgb(100, 24, 24);
+ padding-top: 70px;
+}
+
+nav{
+border:2px rgb(160, 26, 26) solid;
+background-color: rgb(218, 130, 48);
+
+}
+
+section{
+    color:rgb(211, 121, 18);
+    border:2px  red solid;
+    margin: 20PX;
+}
+
+
